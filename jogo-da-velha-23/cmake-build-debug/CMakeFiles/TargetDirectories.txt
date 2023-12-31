@@ -1,0 +1,3 @@
+D:/Josue/Engenharia_da_Computacao/linguagens-de-programacao/c-e-cpp/jogos-21-23/jogo-da-velha-23/cmake-build-debug/CMakeFiles/jogo_da_velha_23.dir
+D:/Josue/Engenharia_da_Computacao/linguagens-de-programacao/c-e-cpp/jogos-21-23/jogo-da-velha-23/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Josue/Engenharia_da_Computacao/linguagens-de-programacao/c-e-cpp/jogos-21-23/jogo-da-velha-23/cmake-build-debug/CMakeFiles/rebuild_cache.dir

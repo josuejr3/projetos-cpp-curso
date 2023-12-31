@@ -1,0 +1,3 @@
+D:/Josue/Engenharia_da_Computacao/linguagens-de-programacao/c-e-cpp/jogos-21-23/jogo-batalha-naval-22/cmake-build-debug/CMakeFiles/jogo_batalha_naval_22.dir
+D:/Josue/Engenharia_da_Computacao/linguagens-de-programacao/c-e-cpp/jogos-21-23/jogo-batalha-naval-22/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Josue/Engenharia_da_Computacao/linguagens-de-programacao/c-e-cpp/jogos-21-23/jogo-batalha-naval-22/cmake-build-debug/CMakeFiles/rebuild_cache.dir

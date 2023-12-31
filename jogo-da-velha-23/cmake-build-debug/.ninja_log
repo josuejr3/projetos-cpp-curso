@@ -1,0 +1,18 @@
+# ninja log v5
+7	441	7255412496476651	CMakeFiles/jogo_da_velha_23.dir/main.cpp.obj	b8f7a853ee149981
+3	633	7255420365890878	CMakeFiles/jogo_da_velha_23.dir/funcoesJogoDaVelha.cpp.obj	d35eff253052574b
+634	813	7255420367607784	jogo_da_velha_23.exe	48629aa52e140567
+3	445	7255420500580777	CMakeFiles/jogo_da_velha_23.dir/main.cpp.obj	b8f7a853ee149981
+446	580	7255420501851910	jogo_da_velha_23.exe	48629aa52e140567
+3	487	7255421390274889	CMakeFiles/jogo_da_velha_23.dir/funcoesJogoDaVelha.cpp.obj	d35eff253052574b
+488	674	7255421392075412	jogo_da_velha_23.exe	48629aa52e140567
+3	530	7255422804847757	CMakeFiles/jogo_da_velha_23.dir/funcoesJogoDaVelha.cpp.obj	d35eff253052574b
+531	665	7255422806147487	jogo_da_velha_23.exe	48629aa52e140567
+3	455	7255423322167591	CMakeFiles/jogo_da_velha_23.dir/funcoesJogoDaVelha.cpp.obj	d35eff253052574b
+455	634	7255423323908015	jogo_da_velha_23.exe	48629aa52e140567
+3	572	7255428500715065	CMakeFiles/jogo_da_velha_23.dir/funcoesJogoDaVelha.cpp.obj	d35eff253052574b
+3	468	7255429395322588	CMakeFiles/jogo_da_velha_23.dir/funcoesJogoDaVelha.cpp.obj	d35eff253052574b
+3	445	7255429917113274	CMakeFiles/jogo_da_velha_23.dir/main.cpp.obj	b8f7a853ee149981
+446	620	7255429918782934	jogo_da_velha_23.exe	48629aa52e140567
+3	450	7255431830789039	CMakeFiles/jogo_da_velha_23.dir/funcoesJogoDaVelha.cpp.obj	d35eff253052574b
+451	635	7255431832562758	jogo_da_velha_23.exe	48629aa52e140567
